@@ -88,3 +88,18 @@ The LLM picks from this list for each column, based on its profile:
 - Works on *any* CSV schema — column names are never hardcoded.
 - A column can have multiple actions applied in sequence (e.g. `trim_whitespace` → `standardize_case`).
 - `drop_column` is destructive — the LLM is instructed to use it sparingly (only near-empty or unusable columns).
+
+
+## 👨‍💻 Author
+
+**Niharika K T**
+
+**Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization**
+
+📧 Email: niharikakt024@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/niharika-k-t-8a1a2728a  
+💻 GitHub: https://github.com/niharikakt024
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
